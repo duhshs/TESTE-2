@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT SP FHD">
+    <display-name lang="pt">SBT SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band SP FHD">
+    <display-name lang="pt">Band SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RecordTV SP FHD">
+    <display-name lang="pt">RecordTV SP FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo News FHD">
+    <display-name lang="pt">Globo News FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic FHD ³">
+    <display-name lang="pt">National Geographic FHD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet FHD">
+    <display-name lang="pt">Animal Planet FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History Channel FHD ³">
+    <display-name lang="pt">History Channel FHD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo FHD ³">
+    <display-name lang="pt">Discovery Turbo FHD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil FHD">
+    <display-name lang="pt">ESPN Brasil FHD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN FHD ">
+    <display-name lang="pt">ESPN FHD </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
